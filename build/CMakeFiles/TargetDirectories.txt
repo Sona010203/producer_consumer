@@ -1,0 +1,4 @@
+/home/amirkhaniansev/data/temp/rau_os_2/008/lesson_5/semaphore/build/CMakeFiles/semaphore.dir
+/home/amirkhaniansev/data/temp/rau_os_2/008/lesson_5/semaphore/build/CMakeFiles/queue.dir
+/home/amirkhaniansev/data/temp/rau_os_2/008/lesson_5/semaphore/build/CMakeFiles/edit_cache.dir
+/home/amirkhaniansev/data/temp/rau_os_2/008/lesson_5/semaphore/build/CMakeFiles/rebuild_cache.dir
